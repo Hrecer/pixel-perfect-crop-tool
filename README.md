@@ -2,6 +2,8 @@
 
 Pixel-perfect lossless image cropping tool with edge snapping | 像素级边界吸附无损裁剪工具
 
+This tool has been tested only on Windows.
+
 ## Features
 - 🎯 Pixel-level edge snapping
 - 🔍 Lossless cropping
